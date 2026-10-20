@@ -24,14 +24,15 @@
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Categoría | Descripción | Estado |
-| :--- | :--- | :--- | :--- |
-| **[Prisma Digital Labs](https://prismalabs.es/)** | Estudio & Hub | Estudio de desarrollo de software y sistemas a medida desde Ourense. | 🟢 Activo |
-| **[Resérvalo](https://prismalabs.es/herramientas/reservalo/)** | SaaS B2B | Motor de reservas para turismo activo y bodegas. Control de cupos en tiempo real sin comisiones por porcentaje. | 🟢 Piloto Activo |
-| **[Pítalo](https://pitalo.es/)** | SaaS & PWA | Plataforma universal de inventario y escaneo con retícula láser, soporte 100% offline y SDK de 3 KB. | 🟢 Producción |
-| **Tsukihana** | Operaciones | Suite operativa para hostelería: escandallos algorítmicos, control de márgenes y app de stock. | 🟢 Privado |
-| **[All Can Trade](https://prismalabs.es/herramientas/all-can-trade/)** | FinTech / IA | Modelado cuantitativo bursátil con metodologías de Alexander Elder (Triple Pantalla). | 🟡 Laboratorio |
-| **[Nexo](https://prismalabs.es/herramientas/nexo/)** | E-Commerce / Eventos | Plataforma para tiendas de juegos y hobbies: torneos con sistema suizo y catálogo. | 🟡 Laboratorio |
+| Proyecto | Categoría | Descripción | Código / Enlace | Estado |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Prisma Digital Labs](https://prismalabs.es/)** | Estudio & Hub | Estudio de desarrollo de software y sistemas a medida desde Ourense. | [prismalabs.es](https://prismalabs.es/) | 🟢 Activo |
+| **[Resérvalo](https://prismalabs.es/herramientas/reservalo/)** | SaaS B2B | Motor de reservas para turismo activo y bodegas. Control de cupos en tiempo real sin comisiones. | [Demo](https://prismalabs.es/herramientas/reservalo/) | 🟢 Piloto Activo |
+| **[Pítalo](https://github.com/josealvarez1332-dev/pitalo-universal-app)** | SaaS & PWA | Plataforma universal de inventario y escaneo con retícula láser, PWA 100% offline y SDK de 3 KB. | [GitHub Repo](https://github.com/josealvarez1332-dev/pitalo-universal-app) | 🟢 Producción |
+| **[Tsukihana](https://github.com/josealvarez1332-dev/tsukihana-operations)** | Operaciones | Suite operativa para alta hostelería: escandallos algorítmicos, márgenes netos y cabina de pedidos. | [Demo](https://marred-leech-idvgg.ship.place/tsukihana/operaciones.html) · [Repo](https://github.com/josealvarez1332-dev/tsukihana-operations) | 🟢 Producción |
+| **[Milagros & Aurora](https://github.com/josealvarez1332-dev/milagros-aurora-store)** | E-Commerce & IA | Streetwear pesado (400g) y salud mental (10% donado a Línea 024). E-commerce propio con canvas cósmico. | [GitHub Repo](https://github.com/josealvarez1332-dev/milagros-aurora-store) | 🟢 Producción |
+| **[All Can Trade](https://prismalabs.es/herramientas/all-can-trade/)** | FinTech / IA | Modelado cuantitativo bursátil con metodologías de Alexander Elder (Triple Pantalla e Impulso). | [Ficha](https://prismalabs.es/herramientas/all-can-trade/) | 🟡 Laboratorio |
+| **[Nexo](https://prismalabs.es/herramientas/nexo/)** | E-Commerce / Eventos | Plataforma para tiendas de hobbies: emparejamiento suizo de torneos y catálogo compartido. | [Ficha](https://prismalabs.es/herramientas/nexo/) | 🟡 Laboratorio |
 
 ---
 
